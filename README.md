@@ -37,7 +37,7 @@ I approached this challenge in **two phases**:
 
 * **CSS Variables (`--variableName`)**
 
-* **How to declare and use them in global and local scopes.**
+  * How to declare and use them in global and local scopes.
 
 * **Manipulating Variables with JavaScript**
 
