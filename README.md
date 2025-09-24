@@ -1,8 +1,3 @@
-Perfect 👌 That’s exactly the kind of detail that makes a **README entry for each challenge** shine.
-Since this is your **3rd challenge (CSS Variables + JS)**, here’s how we can structure it in your README in a clear, book-style, but also portfolio-friendly way:
-
----
-
 ## 🎨 Challenge 3: CSS Variables and JS Manipulation
 
 ### 📌 What I Built
